@@ -3,7 +3,7 @@
     <types>
         <members>Account.DevOpsRule</members>
         <name>WorkflowRule</name>
-    </types>
+    </types> 
     <types>
         <members>Account.DevOpsField</members>
         <name>WorkflowFieldUpdate</name>
