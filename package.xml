@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-<!--
     <types>
         <members>Account.DevOpsRule</members>
         <name>WorkflowRule</name>
@@ -8,8 +7,8 @@
     <types>
         <members>Account.DevOpsField</members>
         <name>WorkflowFieldUpdate</name>
-    </types>  
--->
+    </types> 
+
     <types>
         <members>CaseProcessingTest</members>
         <name>ApexClass</name> 
