@@ -11,7 +11,6 @@
 		</types>
 	<types>
 		<members>DevOpsTestClass</members>
-		<members>CaseProcessingTest</members> 
 		<name>ApexClass</name> 
 	</types>
 	<version>33.0</version>
