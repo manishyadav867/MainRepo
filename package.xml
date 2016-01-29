@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <types>
-        <members>Account.DevOpsRule</members>
-        <name>WorkflowRule</name>
-    </types> 
-    <types>
-        <members>Account.DevOpsField</members>
-        <name>WorkflowFieldUpdate</name>
-    </types> 
-
-    <types>
-        <members>CaseProcessingTest</members>
-        <name>ApexClass</name> 
-    </types>
-    <version>33.0</version>   
+	<types>
+		<members>DevOpsTest__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>DevOpsTest__c.DevOpsText1__c</members>
+		<members>DevOpsTest__c.DevOpsText1__c</members>        
+		<name>CustomField</name> 
+		</types>
+	<types>
+		<members>DevOpsTestClass</members>
+		<name>ApexClass</name>
+	</types>
+	<version>33.0</version>
 </Package>
