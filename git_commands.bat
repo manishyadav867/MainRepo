@@ -1,3 +1,4 @@
+cd C:\DevOps\Jenkins25Demo\MainRepo
 git checkout master
 git status
 git add .
