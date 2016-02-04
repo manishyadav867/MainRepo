@@ -15,7 +15,7 @@
 		<name>ApexClass</name>        
 	</types>   
     <types>
-        <members>MyCoolTrigger</members>
+        <members>MyCoolTrigger</members>  
         <name>ApexTrigger</name>   
     </types>
     <types>
