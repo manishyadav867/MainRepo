@@ -12,6 +12,6 @@
 	<types>
 		<members>DevOpsTestClass</members> 
 		<name>ApexClass</name>        
-	</types>  
+	</types>   
 	<version>33.0</version>  
 </Package>
