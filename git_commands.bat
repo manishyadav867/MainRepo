@@ -1,4 +1,5 @@
 cd C:\DevOps\Jenkins25Demo\MainRepo
+set PATH=%PATH%;"C:\Program Files\Git\cmd"
 git checkout master
 git status
 git add .
