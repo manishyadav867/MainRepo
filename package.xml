@@ -12,7 +12,7 @@
 		</types>
 	<types>
 		<members>DevOpsTestClass</members>  
-		<name>ApexClass</name>        
+		<name>ApexClass</name>           
 	</types>   
     <types>
         <members>MyCoolTrigger</members>  
