@@ -18,7 +18,7 @@
         <members>MyCoolTrigger</members>  
         <name>ApexTrigger</name>   
     </types> 
-    <types>
+    <types> 
         <members>Subcription__c.Due_Date_Past</members>  
         <name>ValidationRule</name>       
     </types>	
