@@ -4,7 +4,7 @@
 			 	<members>Subcription__c</members>
 		<name>CustomObject</name>
 	</types>
-	<types>   
+	<types>    
 		<members>Subcription__c.dueAmount__c</members>
 		<members>Subcription__c.dueDate__c</members>  
 		<members>Subcription__c.status__c</members> 		
