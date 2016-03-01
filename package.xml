@@ -19,7 +19,7 @@
         <name>ApexTrigger</name>   
     </types> 
     <types> 
-        <members>Subcription__c.Due_Date_Past</members>  
+        <members>Subcription__c.Due_Date_Past</members>   
         <name>ValidationRule</name>       
     </types>	
 	<version>33.0</version>    
