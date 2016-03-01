@@ -8,7 +8,7 @@
 		<members>Subcription__c.dueAmount__c</members>
 		<members>Subcription__c.dueDate__c</members>  
 		<members>Subcription__c.status__c</members> 		
-		<name>CustomField</name> 
+		<name>CustomField</name>  
 		</types>
 	<types>
 		<members>DevOpsTestClass</members>  
