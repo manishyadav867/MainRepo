@@ -11,7 +11,7 @@
 		<name>CustomField</name>   
 		</types>
 	<types>
-		<members>DevOpsTestClass</members>  
+		<members>DevOpsTestClass</members>   
 		<name>ApexClass</name>           
 	</types>   
     <types>
