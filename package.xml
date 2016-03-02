@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
-		 <members>ModelN_Sales_Quotes__c</members>
+		<members>ModelN_Sales_Quotes__c</members>
 		<members>Opportunity_Field_History__c</members>
 		<name>CustomObject</name>
 	</types>
