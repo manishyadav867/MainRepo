@@ -21,7 +21,7 @@
 	</types>
 	<types>
 		<members>ModelNQuoteSearchPage</members>
-		<name>ApexPage</name>            
+		<name>ApexPage</name>
 	</types>
 	<version>33.0</version>
 </Package>  
