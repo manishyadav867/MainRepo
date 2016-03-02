@@ -12,9 +12,9 @@
 		<name>CustomField</name>
 	</types>
 	<types>
-		   <members>ModelNQuoteSearchController</members>
+		   <!--members>ModelNQuoteSearchController</members>
 		<members>ModelNQuoteTransferToVmstar</members>
-		<members>ModelNSalesQuoteDetails</members>  
+		<members>ModelNSalesQuoteDetails</members-->  
 		<members>ModelNSalesQuoteSequenceController</members>
 		<members>ModelNUtility</members>
 		<name>ApexClass</name>           
